@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e9ccab44e60e3845ae634b700555520, type: 3}
+  m_Name: Hooman Info
+  m_EditorClassIdentifier: 
+  nombre: Carlos
+  nivel: 0
+  needs_cant: 0
+  stat_health: 5
+  stat_happy: 5
+  stat_energy: 5
+  stat_social: 5
+  time_duration_min: 4
+  time_duration_max: 7
+  need:
+  - {fileID: 11400000, guid: ca7e360f1d5ba2243b4777bc3659c1dd, type: 2}
+  - {fileID: 11400000, guid: 984dcfeae9f8a5a4a8f7f8f2ed6cb2f1, type: 2}
+  - {fileID: 11400000, guid: b6863fbd40ea992428d42f2e938f01a1, type: 2}

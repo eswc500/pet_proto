@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea3580456116d524cbb7228adba36df1, type: 3}
+  m_Name: "2 - Sue\xF1o"
+  m_EditorClassIdentifier: 
+  id: 2
+  nombre: "Sue\xF1o"
+  nivel: 0
+  stat_health: 0
+  stat_happy: 0
+  stat_social: 0
+  stat_energy: 5
